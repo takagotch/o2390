@@ -1,7 +1,7 @@
 # Site settings
 title: TKVTV
-email: ""
-description: "Photo Journal"
+email: "me@fb.com"
+description: "取引量No.1！ *当社比"
 url: "https://takagotch.github.io"
 baseurl: "/page88"
 facebook_username: "takagotch"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://sunbliss.github.io/page88/gallery/"  
+  - JOURNAL: "https://sunbliss.github.io/page88/journal/"
+  - ABOUT: "https://sunbliss.github.io/page88/about/"
 
 # All translation keys
 translations:
