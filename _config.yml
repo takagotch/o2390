@@ -1,21 +1,21 @@
 # Site settings
-title: PHOTORAMA
+title: TKVTV
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
+url: "https://takagotch.github.io"
+baseurl: "/page88"
+facebook_username: "takagotch"
 twitter_username: ""
 instagram_username: ""
-github_username:  ""
+github_username:  "takagotch"
 deviantart_username: ""
-flickr_username: ""
+flickr_username: "takagotch"
 discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   takagotch
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -71,3 +71,5 @@ sitemap:
         - "/writing/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
+
+
